@@ -1,8 +1,9 @@
 # berkeleytextbooks
-Textbooks EE(CS) majors at Berkeley would find helpful. 
+Textbooks and notes EE(CS) majors at Berkeley would find helpful. 
 
-I plan to add textbooks for: 
- - CS61A
- - EE16A
+I plan to add resources for: 
+ - CS61ABC
+ - EE16AB
  - CS70
  - CS170
+ - Physics7ABC
