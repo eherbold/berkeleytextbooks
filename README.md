@@ -6,7 +6,8 @@ I plan to add resources for:
  - EE16A (x) B ()
  - CS70 ()
  - CS170 (x)
- - Physics7A () B () C ()
+ - Physics7A (x) B (x) C (x)
+ - CS162 (x)
  
  
 x = In Progress;
