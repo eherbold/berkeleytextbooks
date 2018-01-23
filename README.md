@@ -2,12 +2,14 @@
 Textbooks and notes EE(CS) majors at Berkeley would find helpful. 
 
 I plan to add resources for: 
- - CS61A () B (x) C ()
- - EE16A (x) B ()
+ - CS61A () B (o) C ()
+ - EE16A (o) B ()
  - CS70 ()
- - CS170 (x)
+ - CS170 (o)
  - Physics7A (x) B (x) C (x)
- - CS162 (x)
+ - CS162 (o)
+ - CS188 (o)
+ - CS186 (o)
  
  
 x = In Progress;
